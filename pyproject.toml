@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "os-process-synchronization-hw"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["danila12315454 <danilaprig@gmail.com>"]
 readme = "README.md"

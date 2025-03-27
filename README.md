@@ -98,7 +98,7 @@ This version uses synchronization mechanisms to manage access to shared resource
 
 ---
 
-## How to Run the Code 
+## How to Run the Code
 
 simply copy code from github and run any file from solutions. Use python 3.12^
 
